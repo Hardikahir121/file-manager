@@ -1,0 +1,85 @@
+.wpfm-section {
+  background: #fff;
+  border: 1px solid #ccd0d4;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+  margin-bottom: 20px;
+  padding: 0;
+}
+
+.wpfm-section h2 {
+  padding: 16px;
+  margin: 0;
+  background: #0369a1;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 16px;
+}
+
+.wpfm-section h2 .dashicons {
+  font-size: 22px;
+}
+
+.wpfm-filters {
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #ccd0d4;
+}
+
+.wpfm-search {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.wpfm-bulk-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.wp-list-table {
+  border: none;
+}
+
+.wp-list-table th {
+  font-weight: 600;
+}
+
+.wp-list-table .check-column {
+  width: 2.2em;
+}
+
+.wp-list-table .dashicons {
+  color: #2271b1;
+  font-size: 18px;
+}
+
+.tablenav-pages {
+  margin: 15px 0;
+  text-align: right;
+  padding-right: 15px;
+}
+
+.pagination-links .page-numbers {
+  display: inline-block;
+  min-width: 28px;
+  padding: 3px 5px 7px;
+  background: #f0f0f1;
+  border: 1px solid #c3c4c7;
+  text-align: center;
+  text-decoration: none;
+}
+
+.pagination-links .current {
+  color: #fff;
+  background: #2271b1;
+  border-color: #2271b1;
+}
+
+.wpfm-section table td {
+  vertical-align: middle;
+}

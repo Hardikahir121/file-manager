@@ -1,0 +1,26 @@
+/* Dark theme */
+.wpfm-theme-dark {
+  --wpfm-bg-primary: #1a1a1a;
+  --wpfm-bg-secondary: #2d2d2d;
+  --wpfm-bg-hover: #3d3d3d;
+  --wpfm-text-primary: #ffffff;
+  --wpfm-text-secondary: #a0a0a0;
+  --wpfm-border: #404040;
+  --wpfm-accent: #4dabf7;
+}
+
+.wpfm-theme-dark .bg-white {
+  background-color: var(--wpfm-bg-primary) !important;
+}
+
+.wpfm-theme-dark .text-gray-800 {
+  color: var(--wpfm-text-primary) !important;
+}
+
+.wpfm-theme-dark .text-gray-600 {
+  color: var(--wpfm-text-secondary) !important;
+}
+
+.wpfm-theme-dark .border-gray-200 {
+  border-color: var(--wpfm-border) !important;
+}

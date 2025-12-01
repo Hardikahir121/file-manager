@@ -1,0 +1,27 @@
+<?php
+return array(
+    'file_manager' => 'Gestionnaire de Fichiers',
+    'database_manager' => 'Gestionnaire de Base de Données',
+    'settings' => 'Paramètres',
+    'backup_restore' => 'Sauvegarde/Restauration',
+    'logs' => 'Journaux',
+    'welcome' => 'Bienvenue dans le Gestionnaire de Fichiers',
+    'upload_files' => 'Téléverser des Fichiers',
+    'create_folder' => 'Créer un Dossier',
+    'refresh' => 'Actualiser',
+    'search' => 'Rechercher des fichiers...',
+    'name' => 'Nom',
+    'size' => 'Taille',
+    'modified' => 'Modifié',
+    'actions' => 'Actions',
+    'no_files' => 'Aucun fichier trouvé',
+    'delete_confirm' => 'Êtes-vous sûr de vouloir supprimer cet élément?',
+    'rename' => 'Renommer',
+    'download' => 'Télécharger',
+    'delete' => 'Supprimer',
+    'edit' => 'Modifier',
+    'view' => 'Voir',
+    'copy' => 'Copier',
+    'move' => 'Déplacer',
+    'file_info' => 'Info Fichier'
+);

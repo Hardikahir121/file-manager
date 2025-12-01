@@ -1,0 +1,10 @@
+/* Light theme (default) - minimal changes as light is default */
+.wpfm-theme-light {
+  --wpfm-bg-primary: #ffffff;
+  --wpfm-bg-secondary: #f8f9fa;
+  --wpfm-bg-hover: #e9ecef;
+  --wpfm-text-primary: #1a1a1a;
+  --wpfm-text-secondary: #6c757d;
+  --wpfm-border: #dee2e6;
+  --wpfm-accent: #007cba;
+}

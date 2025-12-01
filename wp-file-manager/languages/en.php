@@ -1,0 +1,27 @@
+<?php
+return array(
+    'file_manager' => 'File Manager',
+    'database_manager' => 'Database Manager',
+    'settings' => 'Settings',
+    'backup_restore' => 'Backup/Restore',
+    'logs' => 'Logs',
+    'welcome' => 'Welcome to File Manager',
+    'upload_files' => 'Upload Files',
+    'create_folder' => 'Create Folder',
+    'refresh' => 'Refresh',
+    'search' => 'Search files...',
+    'name' => 'Name',
+    'size' => 'Size',
+    'modified' => 'Modified',
+    'actions' => 'Actions',
+    'no_files' => 'No files found',
+    'delete_confirm' => 'Are you sure you want to delete this item?',
+    'rename' => 'Rename',
+    'download' => 'Download',
+    'delete' => 'Delete',
+    'edit' => 'Edit',
+    'view' => 'View',
+    'copy' => 'Copy',
+    'move' => 'Move',
+    'file_info' => 'File Info'
+);

@@ -1,0 +1,22 @@
+/* Blue theme */
+.wpfm-theme-blue {
+  --wpfm-bg-primary: #e3f2fd;
+  --wpfm-bg-secondary: #bbdefb;
+  --wpfm-bg-hover: #90caf9;
+  --wpfm-text-primary: #0d47a1;
+  --wpfm-text-secondary: #1976d2;
+  --wpfm-border: #64b5f6;
+  --wpfm-accent: #1565c0;
+}
+
+.wpfm-theme-blue .bg-white {
+  background-color: var(--wpfm-bg-primary) !important;
+}
+
+.wpfm-theme-blue .text-gray-800 {
+  color: var(--wpfm-text-primary) !important;
+}
+
+.wpfm-theme-blue .border {
+  border-color: var(--wpfm-border) !important;
+}
